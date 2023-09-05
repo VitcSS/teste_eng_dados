@@ -1,0 +1,9 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+derby.log
+# Ignore user-specific IDE settings
+.vscode/
+.idea/
+spark-warehouse/
+metastore_db/
