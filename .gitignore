@@ -7,3 +7,4 @@ derby.log
 .idea/
 spark-warehouse/
 metastore_db/
+teste_eng_dados_lambda/__pycache__/
