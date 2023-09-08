@@ -1,0 +1,1 @@
+Nesse repositório está contida a resolução do Teste Técnico da empresa Lambda 3 presente no seguinte [repositótio](https://github.com/AhirtonLopes/teste_eng_dados3). Todas as respostas estão contidas no arquivo [main.ipynb](main.ipynb). No repositório existem arquivos que permitem a criação de ambientes para uso do notebook tanto usando poetry tanto quanto usando pip.
