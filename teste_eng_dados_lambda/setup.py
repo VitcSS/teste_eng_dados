@@ -27,7 +27,6 @@ class desafio_engenheiro:
         return self.spark.createDataFrame(cliente_data, schema=cliente_schema)
     
     def create_contract_table(self)->DataFrame:
-        # Create the contrato DataFrame and schema
         contrato_schema = StructType([
             StructField("contrato_id", IntegerType(), False),
             StructField("ativo", BooleanType(), False),
